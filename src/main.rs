@@ -3,5 +3,5 @@ fn main() {
 }
 
 fn halve(x: f32) -> f32 {
-    return x / 2.0;
+    x / 2.0
 }
